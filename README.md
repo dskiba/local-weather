@@ -1,1 +1,1 @@
-simple react app to show local weather
+simple app for showing local weather
